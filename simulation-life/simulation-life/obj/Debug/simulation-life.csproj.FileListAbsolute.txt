@@ -1,0 +1,10 @@
+D:\Users\Артем\source\repos\simulation-life\simulation-life\bin\Debug\simulation-life.exe.config
+D:\Users\Артем\source\repos\simulation-life\simulation-life\bin\Debug\simulation-life.exe
+D:\Users\Артем\source\repos\simulation-life\simulation-life\bin\Debug\simulation-life.pdb
+D:\Users\Артем\source\repos\simulation-life\simulation-life\obj\Debug\simulation-life.csprojAssemblyReference.cache
+D:\Users\Артем\source\repos\simulation-life\simulation-life\obj\Debug\simulation_life.Form1.resources
+D:\Users\Артем\source\repos\simulation-life\simulation-life\obj\Debug\simulation_life.Properties.Resources.resources
+D:\Users\Артем\source\repos\simulation-life\simulation-life\obj\Debug\simulation-life.csproj.GenerateResource.cache
+D:\Users\Артем\source\repos\simulation-life\simulation-life\obj\Debug\simulation-life.csproj.CoreCompileInputs.cache
+D:\Users\Артем\source\repos\simulation-life\simulation-life\obj\Debug\simulation-life.exe
+D:\Users\Артем\source\repos\simulation-life\simulation-life\obj\Debug\simulation-life.pdb
